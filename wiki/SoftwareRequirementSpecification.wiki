@@ -1,5 +1,5 @@
+#summary clikec 프로젝트의 requirement 를 기술한다.
 #labels Phase-Requirements
-# clikec 프로젝트의 requirement 를 기술한다.
 
 ----
 
