@@ -1,0 +1,48 @@
+#summary Dharani project 의 requirement 를 기술한다.
+#labels Phase-Requirements,Dharani
+
+----
+
+= Introduction =
+Dharani project 는 clikec project 의 sub project 이다.
+다양한 모델의 서버-클라이언트 네트워크 구성을 돕는 라이브러리를 개발한다.
+
+= Requirement =
+
+== Summary ==
+간략히 정리하면 다음과 같은 요구사항을 갖는다.
+
+ * 서버-클라이언트 구성을 돕는다.
+ * 서로 다른 사설 네트워크 하의 클라이언트 간에 통신이 가능해야 한다.
+ * 패킷 감청에 의한 문제가 없도록, 연결 간에 보안을 보장한다.
+ * 간단한 문장의 전송이 가능해야 한다.
+ * 파일의 전송이 가능해야 한다.
+
+
+== Definition ==
+=== 서버-클라이언트 구성을 돕는다. ===
+
+=== 서로 다른 사설 네트워크 하의 클라이언트 간에 통신이 가능해야 한다. ===
+
+=== 패킷 감청에 의한 문제가 없도록, 연결 간에 보안을 보장한다. ===
+
+=== 간단한 문장의 전송이 가능해야 한다. ===
+
+=== 파일의 전송이 가능해야 한다. ===
+
+
+
+
+
+= 산출물 =
+
+
+== Licenses ==
+
+= 배포 방식 =
+배포는 본 프로젝트 hosting 페이지로 이루어진다.
+source code/source code에 밀접하게 연관된 문서는 Software Configuration Management tool 을 통해,
+문서는 wiki page 를 통해,
+최종 바이너리는 download를 통해 배포될 것이다.
+
+모든 산출물이 실시간으로 배포되진 않을 것이며, 배포 방식은 언제든지 바뀔 수 있다.
